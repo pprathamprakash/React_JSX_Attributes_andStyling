@@ -1,0 +1,14 @@
+.heading {
+  color: red;
+}
+
+ul {
+  color: orange;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin-top: 10px;
+}
